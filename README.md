@@ -1,2 +1,2 @@
 # bettersnippets
-better way to create snippet
+a better way to create snippet
